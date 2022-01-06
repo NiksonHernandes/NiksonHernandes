@@ -35,7 +35,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <img align="center" alt="NiksonHernandes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--  <img align="center" alt="NiksonHernandes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="NiksonHernandes-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="NiksonHernandes-pic" height="150" style="border-radius:30" src="https://share-cdn.picrew.me/shareImg/org/202201/1423931_C1tpC882.png">
+  <img align="right" alt="NiksonHernandes-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/1423931_C1tpC882.png">
 </div>
   
   ##
