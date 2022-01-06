@@ -1,4 +1,27 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiii, eu sou o Nikson Hernandes! ✔
+
+<br />
+
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Eu sou iniciante na programação e quero aprender muito sobre tudo!
+
+
+**SOBRE MIM:**
+
+- 💼 Trabalho como Analista de Suporte JR. na empresa [Fugini](https://www.fugini.com.br/).
+
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
+
+- 📈 Atualmente estudo um pouco de tudo! (back-end e front-end).
+
+- 💬 Contate-me no e-mail: Nik.Hernandes14@hotmail.com
+
+- ❤️ Eu amo gatinhos 🐱 e café ☕.
+
+  ##
+
+**Linguagens e ferramentas:**  
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
