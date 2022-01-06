@@ -19,6 +19,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
   ##
 
+<br />
 <!--**Linguagens e ferramentas:**  -->
 
 <div align="center">
