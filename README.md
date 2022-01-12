@@ -49,5 +49,10 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <a href="https://www.linkedin.com/in/nikson-hernandes-55492b207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/NiksonHernandes/NiksonHernandes/blob/output/github-contribution-grid-snake.svg)
+  
+   ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/niksonhernandes/count.svg" />
+ </p>
  
 </div>
