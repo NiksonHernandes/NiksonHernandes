@@ -7,8 +7,6 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
 **SOBRE MIM:**
 
-- 💼 Trabalho como Analista de Suporte JR. na empresa [Fugini](https://www.fugini.com.br/).
-
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
 
 - 📈 Atualmente estudo um pouco de tudo! (back-end e front-end).
