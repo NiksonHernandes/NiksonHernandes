@@ -1,11 +1,15 @@
-## Oláá, eu sou o Nikson Hernandes!
+<!-- Capsule render -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ffffff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
+<!--Texto da abaixo da Capsule render-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Nikson+Hernandes;Tenho+22+Anos+de+Idade;Eu+Moro+Em+Monte+Alto,+SP;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 <br />
 
-Eu sou iniciante na programação e quero aprender muito sobre tudo!
-
+  ##
 
 **SOBRE MIM:**
+
+Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
 
@@ -15,16 +19,17 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
 - ❤️ Eu amo gatinhos 🐱 e café ☕.
 
-  ##
+ ##
 
 <br />
 <!--**Linguagens e ferramentas:**  -->
 
 <div align="center">
   <a href="https://github.com/NiksonHernandes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NiksonHernandes&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksonHernandes&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NiksonHernandes&show_icons=true&amp;theme=city_lights&amp;include_all_commits=true&amp;count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksonHernandes&layout=compact&amp;langs_count=7&amp;theme=city_lights"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="NiksonHernandes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!-- <img align="center" alt="NiksonHernandes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -57,4 +62,11 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
    <img alingn="center" src="https://profile-counter.glitch.me/niksonhernandes/count.svg" />
  </p>
  
+  <br /><br />
+  
 </div>
+    
+  <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+
+  
+
