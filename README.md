@@ -1,8 +1,8 @@
 <!-- Capsule render -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ffffff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=324c68&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
 <!--Texto da abaixo da Capsule render-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Nikson+Hernandes;Tenho+22+Anos+de+Idade;Eu+Moro+Em+Monte+Alto,+SP;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f84a5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Nikson+Hernandes;Tenho+22+Anos+de+Idade;Eu+Moro+Em+Monte+Alto,+SP;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 <br />
 
   ##
@@ -66,7 +66,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   
 </div>
     
-  <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=ffffff&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+  <img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=324c68&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
   
 
