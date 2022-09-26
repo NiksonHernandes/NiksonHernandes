@@ -13,7 +13,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
 
-- 📈 Atualmente estudo um pouco de tudo! (back-end e front-end).
+- 📈 Atualmente estou relembrando os conceitos de JavaScript e iniciando os estudos em React!
 
 - 💬 Contate-me no e-mail: Nik.Hernandes14@hotmail.com
 
