@@ -29,21 +29,14 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NiksonHernandes&show_icons=true&amp;theme=city_lights&amp;include_all_commits=true&amp;count_private=true"/>
    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksonHernandes&layout=compact&amp;langs_count=7&amp;theme=city_lights"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="NiksonHernandes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="NiksonHernandes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NiksonHernandes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="NiksonHernandes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="NiksonHernandes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--  <img align="center" alt="NiksonHernandes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="center" alt="NiksonHernandes-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="NiksonHernandes-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="NiksonHernandes-Java" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   
-   
-  <!--<img align="right" alt="NiksonHernandes-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/1423931_C1tpC882.png">
-</div> MINHHA PIC--> 
+ 
+  <!--Icons-->
+ <div style="display: inline_block"><br><br>
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c,cs,dotnet,nodejs,jquery,bootstrap" />
+    </a>
+  </p>
   
   ## Contatos :bookmark:
  
