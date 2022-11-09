@@ -24,11 +24,6 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 <br />
 <!--**Linguagens e ferramentas:**  -->
 
-<div align="center">
-  <a href="https://github.com/NiksonHernandes">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NiksonHernandes&show_icons=true&amp;theme=city_lights&amp;include_all_commits=true&amp;count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiksonHernandes&layout=compact&amp;langs_count=7&amp;theme=city_lights"/>
-</div>
  
   <!--Icons-->
  <div style="display: inline_block"><br><br>
