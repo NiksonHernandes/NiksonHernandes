@@ -31,6 +31,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 </div>
  
   <!--Icons-->
+  <div style="display: inline_block"><br><br>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c,cs,dotnet,nodejs,jquery,bootstrap,raspeberrypi" />
