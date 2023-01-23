@@ -33,7 +33,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <!--Icons-->
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c,cs" />
   </a>
 </p>
   
