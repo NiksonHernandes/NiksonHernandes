@@ -34,7 +34,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <div style="display: inline_block"><br><br>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c,cs,dotnet,nodejs,jquery,angular,bootstrap,raspeberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,c,cs,dotnet,nodejs,jquery,angular,spring,bootstrap,raspeberrypi" />
   </a>
 </p>
   
