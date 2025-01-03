@@ -34,8 +34,8 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
   <br><br>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,java,c,cs,dotnet,nodejs,jquery,angular,spring,bootstrap,arduino" />
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,gitlab,idea,jenkins,nginx,npm,redis,mysql,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,java,c,cs,dotnet,nodejs,jquery,angular,bootstrap,arduino" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,gitlab,idea,jenkins,nginx,npm,redis,mysql,spring,windows" />
   </a>
 </p>
   <br>
