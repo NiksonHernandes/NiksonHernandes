@@ -11,9 +11,9 @@
 
 Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
+- 📚 Sou graduado em Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
 
-- 📈 Atualmente estou estudando IA, estudando para certificação da Microsoft e desenvolvendo aplicações em C# com Azure OpenAI. 
+<!--- 📈 Atualmente estou estudando IA, estudando para certificação da Microsoft e desenvolvendo aplicações em C# com Azure OpenAI. -->
 
 - 💬 Contate-me no e-mail: Nik.Hernandes14@hotmail.com
 
