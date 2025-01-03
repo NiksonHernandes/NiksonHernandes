@@ -15,7 +15,7 @@ Eu sou iniciante na programação e quero aprender muito sobre tudo!
 
 <!--- 📈 Atualmente estou estudando IA, estudando para certificação da Microsoft e desenvolvendo aplicações em C# com Azure OpenAI. -->
 
-- 💬 Contate-me no e-mail: Nik.Hernandes14@hotmail.com
+- 💬 Contate-me através do e-mail: Nik.Hernandes14@hotmail.com
 
 - ❤️ Eu amo gatinhos 🐱 e café ☕.
 
