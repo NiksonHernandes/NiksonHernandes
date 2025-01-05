@@ -9,7 +9,7 @@
 
 **SOBRE MIM:**
 
-Eu sou iniciante na programação e quero aprender muito sobre tudo!
+Eu adoro estudar e me aventurar na programação de software!
 
 - 📚 Sou graduado em Análise e Desenvolvimento de Sistemas na [Fatec de Taquaritinga-SP](https://www.fatectq.edu.br/).
 
